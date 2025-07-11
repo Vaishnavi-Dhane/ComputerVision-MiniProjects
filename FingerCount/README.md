@@ -17,7 +17,7 @@ It uses color segmentation, contours, convex hull, and basic geometry to identif
 ## 📂 Files
 
 - [`HandGesture based finger_count.ipynb` ](https://github.com/Vaishnavi-Dhane/ComputerVision-MiniProjects/blob/main/FingerCount/HandGesture%20based%20FingerCount.ipynb)— Jupyter Notebook with full code
-- `finger-count-output.mp4` — Demo video showing it in action
+-[ `finger-count-output.mp4`](https://github.com/Vaishnavi-Dhane/ComputerVision-MiniProjects/raw/refs/heads/main/FingerCount/fingercount-opencv.mp4) — Demo video showing it in action
 
 ---
 
