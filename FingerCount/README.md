@@ -16,7 +16,7 @@ It uses color segmentation, contours, convex hull, and basic geometry to identif
 
 ## 📂 Files
 
-- `finger_count.ipynb` — Jupyter Notebook with full code
+- [`HandGesture based finger_count.ipynb` ](https://github.com/Vaishnavi-Dhane/ComputerVision-MiniProjects/blob/main/FingerCount/HandGesture%20based%20FingerCount.ipynb)— Jupyter Notebook with full code
 - `finger-count-output.mp4` — Demo video showing it in action
 
 ---
