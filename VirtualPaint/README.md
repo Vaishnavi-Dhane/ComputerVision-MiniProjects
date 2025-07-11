@@ -15,7 +15,8 @@ This project lets you **draw in the air** using a colored marker tracked via you
 
 ## 📂 Files
 
-- `color_detection.ipynb` — Jupyter Notebook with the full code
+- [`color_detection.ipynb`](https://github.com/Vaishnavi-Dhane/ComputerVision-MiniProjects/blob/f962dae168930cac81533f9b050f6c0ac4f082de/VirtualPaint/color_detection.ipynb) — Jupyter Notebook with the full code
+  
 - `virtual-paint-opencv.mp4` — Demo video showing it in action
 
 ---
